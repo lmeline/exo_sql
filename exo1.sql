@@ -1,0 +1,1 @@
+-- exercice sql numéro 1
